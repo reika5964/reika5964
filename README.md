@@ -2,7 +2,7 @@
 
 ## About me
 
-- Igawa Reika  |  Software Test Engineer  |  1+ years EXP.  |  Thai,Japan |
+- Igawa Reika  |  Software Test Engineer  |  6+ months EXP.  |  Thai,Japan |
 [![Resume](https://img.shields.io/badge/Resume-Download-brightgreen?style=flat-square&logo=adobe-acrobat-reader)]([https://drive.google.com/drive/folders/10thl_mWevemQHabVzpY_a2ie1BG13rUk?usp=sharing](https://github.com/reika5964))
 - I’m looking to collaborate on Test Automation Frameworks Development (Web, Mobile and API).
 - I'm , half Thai and Japanese. My first language is Thai, and I can also speak Japanese and a little English.
@@ -11,7 +11,7 @@
 
 ## 🔭  Projects
 - Test Automation Frameworks
-  - TODO:Add my project 
+  - TODO: Add my project 
 
 ## 📚　My Translation Jops
 - 2019~2022 [freelance translator](https://coconala.com/mypage/user?ref=common_header_user)
